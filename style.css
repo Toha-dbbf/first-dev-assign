@@ -13,10 +13,10 @@ ul{
     color: rgb(155, 153, 153);
 }
 .common-btn{
-    padding: 20px 60px;
+    padding: 20px 80px;
     background-color: blue;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 30px;
     color: white;
     cursor: pointer;
     border-radius: 12px;
@@ -118,7 +118,7 @@ nav img{
 font-size: 70px;
 }
 .box-container ul{
-    list-style: circle;
+    list-style: disc;
     padding: 0;
     margin: 20px 0;
     display: block!important;
@@ -137,10 +137,11 @@ box-container li{
     margin: 10px 0;
 }
 .outline-btn{
-    padding: 20px 60px;
+    padding: 20px 80px;
     background-color: white;
+    border: 1px solid blue;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 30px;
     color:blue;
     cursor: pointer;
     border-radius: 12px;
